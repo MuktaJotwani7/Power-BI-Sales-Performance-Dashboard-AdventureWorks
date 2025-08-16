@@ -1,6 +1,12 @@
 # Power-BI-Sales-Performance-Dashboard-AdventureWorks
 <img width="1920" height="1080" alt="Adventure Works dashboard png" src="https://github.com/user-attachments/assets/4b8ff86b-40d3-481c-af1d-bac4bbaca8e2" />
 
+<img width="1920" height="1080" alt="Adventure Works dashboard page2 png" src="https://github.com/user-attachments/assets/e4368406-ce9a-4b6c-8f18-8b942c8cdb23" />
+
+<img width="1920" height="1080" alt="Adventure Works dashboardpage3 png" src="https://github.com/user-attachments/assets/4d0af4d5-db33-48f7-824c-47f6542e174d" />
+
+
+
 Designed an interactive Power BI Sales Dashboard to track revenue, profit, and customer trends. Built dynamic visuals with filters and drill-throughs for region, product, and time period, enabling clear insights into sales performance and business growth
 The goal was to create a report that doesn’t just visualize numbers, but actually tells a story — answering real business questions like:
 
