@@ -1,4 +1,6 @@
 # Power-BI-Sales-Performance-Dashboard-AdventureWorks
+![adventure works cover](https://github.com/user-attachments/assets/5395d771-66b7-43a3-8af8-2415ba618fc5)
+
 <img width="1920" height="1080" alt="Adventure Works dashboard png" src="https://github.com/user-attachments/assets/4b8ff86b-40d3-481c-af1d-bac4bbaca8e2" />
 
 <img width="1920" height="1080" alt="Adventure Works dashboard page2 png" src="https://github.com/user-attachments/assets/e4368406-ce9a-4b6c-8f18-8b942c8cdb23" />
